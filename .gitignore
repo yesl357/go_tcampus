@@ -1,0 +1,13 @@
+*.exe
+*.dll
+*.so
+*.dylib
+build/*
+# Test binary, build with `go test -c`
+*.test
+*.out
+.glide/
+bin/*
+pkg/*
+.idea/*
+.DS_Store
